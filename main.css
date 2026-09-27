@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    /*color swatches*/
+    --background-color-navigation: #12131a;
+    --text-color: #1A1D29;
+    --purple: #a970ff;
+    --pink: #FF8CC8;
+    --cyan-buttons: #8FD3FF;
+    --light-grey: #F4F6FB;
+    --blue-grey: #B8BED1;
+}
+
+.navigation {
+    background-color: var(--background-color-navigation);
+}
